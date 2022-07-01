@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396145668557",
+    "project_id": "apphead-ball-pool",
+    "storage_bucket": "apphead-ball-pool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396145668557:android:d68bf8b901feb929165484",
+        "android_client_info": {
+          "package_name": "com.sha.apphead.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396145668557-2nr0epbbphct9fmai2deii9pqu4js1qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAKOOS4pYKxMzikU-Ar6A6Tu1VUNM0O4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396145668557-2nr0epbbphct9fmai2deii9pqu4js1qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
